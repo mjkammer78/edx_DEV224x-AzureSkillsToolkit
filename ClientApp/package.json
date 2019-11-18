@@ -25,6 +25,7 @@
     "@angular/router": "^5.2.11",
     "@nguniversal/module-map-ngfactory-loader": "^5.0.0",
     "aspnet-prerendering": "^3.0.1",
+    "azure-keyvault": "^3.0.5",
     "bootstrap": "^3.4.1",
     "core-js": "^2.6.10",
     "rxjs": "^5.5.12",
