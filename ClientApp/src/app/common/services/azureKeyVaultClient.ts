@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-// import { KeyVaultClient, KeyVaultCredentials } from 'azure-keyvault';
 import * as KeyVault from 'azure-keyvault';
 import { Http } from '@angular/http';
 // import * as msRestAzure from 'ms-rest-azure';
