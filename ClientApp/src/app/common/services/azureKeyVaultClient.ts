@@ -1,9 +1,9 @@
 import { Injectable } from '@angular/core';
 // import { KeyVaultClient, KeyVaultCredentials } from 'azure-keyvault';
-import KeyVault = require('azure-keyvault');
+import * as KeyVault from 'azure-keyvault';
 import { Http } from '@angular/http';
-const msRestAzure = require('ms-rest-azure');
-import { loginWithAppServiceMSI, MSIAppServiceTokenCredentials } from 'ms-rest-azure'; 
+// import * as msRestAzure from 'ms-rest-azure';
+import { loginWithAppServiceMSI, MSIAppServiceTokenCredentials } from 'ms-rest-azure';
 import { ServiceClientCredentials } from 'ms-rest';
 
 @Injectable()
