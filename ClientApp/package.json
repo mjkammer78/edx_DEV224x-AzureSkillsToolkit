@@ -33,7 +33,7 @@
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.4",
+    "@angular/cli": "^14.2.8",
     "@angular/compiler-cli": "^5.2.11",
     "@angular/language-service": "^5.2.11",
     "@types/jasmine": "^2.8.16",
@@ -53,6 +53,6 @@
     "typescript": "~2.5.3"
   },
   "optionalDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.3"
   }
 }
